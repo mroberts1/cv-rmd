@@ -1,0 +1,15 @@
+---
+title: "Education"
+---
+
+***
+
+1981-1989  
+**University of Cambridge, Trinity College** (U.K)  
+Ph. D. in French Studies (1989)  
+
+1977-1981  
+**University of Birmingham** (U.K.)  
+Bachelor of Arts in French (First Class Honours)  
+Minor: Spanish  
+
