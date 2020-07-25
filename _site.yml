@@ -1,5 +1,9 @@
 name: "martin-roberts"
 output_dir: "."
+output:
+    html_document:
+      theme: simplex
+      css: style.css
 navbar:
   left:
     - text: "Home"
@@ -8,3 +12,6 @@ navbar:
       href: about.html
     - text: "CV"
       href: cv.html
+    - text: "Projects"
+      href: projects.html
+      
